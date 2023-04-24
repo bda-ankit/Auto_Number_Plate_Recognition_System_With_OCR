@@ -2,11 +2,11 @@
 Advance Python project on Auto Number Plate Recognition System With OCR
 
 # Important Development Modules
-OpenCV for identify license plates
-Pytesseract for extract characters and numbers from the plate
+1. OpenCV for identify license plates
+2. Pytesseract for extract characters and numbers from the plate
 
 # Component
-Install Tesseract-OCR in your system 
+Install Tesseract-OCR in your system<br />
 Link - https://github.com/UB-Mannheim/tesseract/wiki
 
 # Approach
