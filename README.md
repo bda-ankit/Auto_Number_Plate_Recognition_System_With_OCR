@@ -1,5 +1,5 @@
 # Auto_Number_Plate_Recognition_System_With_OCR
-Advance Python project on Auto Number Plate Recognition System With OCR
+Advance Python project on Auto Number Plate Recognition System With OCR Get information using MySQL
 
 # Important Development Modules
 1. OpenCV for identify license plates
