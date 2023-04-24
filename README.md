@@ -25,3 +25,6 @@ Link - https://github.com/UB-Mannheim/tesseract/wiki
 
 # Conclusion
 We passed the final processed image to the Tesseract OCR engine to extract the number from the license number plate. We can perform this image process for license number plates with not 100% accuracy sometimes.
+
+#Sample Image
+![MH12DE1433](https://user-images.githubusercontent.com/57013059/233926525-d5423591-a9a5-4b34-bc05-9b8aa2b38cfa.jpg)
